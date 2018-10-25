@@ -1,2 +1,2 @@
 # SJTU-SE-Courseware
-A courseware collection of SJTU software engineering courses
+A courseware collection of SJTU software engineering courses (Grade 2017)
